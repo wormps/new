@@ -144,7 +144,7 @@ let servers = {
 
 
 async function loadUsers() {
-    await fetch("https://wormps.github.io/extension/api/users.php")
+    await fetch("https://wormps.github.io/new/api/users.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
@@ -165,7 +165,7 @@ async function loadUsers() {
 }
 
 async function loadServers() {
-    await fetch("https://wormps.github.io/extension/api/server.php")
+    await fetch("https://wormps.github.io/new/api/server.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
@@ -6519,7 +6519,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://wormps.github.io/extension/api/lan-da-vh.php',
+            url: 'https://wormps.github.io/new/api/lan-da-vh.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
