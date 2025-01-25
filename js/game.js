@@ -287,7 +287,7 @@ const ctx = {
         }),
     }
 };
-ctx.clock = PIXI.Sprite.fromImage("https://i.imgur.com/v6szE9c.png");
+ctx.clock = PIXI.Sprite.fromImage("https://asserts.wormworld.io/images/clock.png");
 ctx.clock.width = 100;
 ctx.clock.height = 100;
 ctx.clock.x = -50;
