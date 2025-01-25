@@ -14564,15 +14564,15 @@
                 "nsnd_01_0"
             ],
             "glow": [
-                "a_death",
-                "a_death",
-                "a_death",
-                "a_death",
-                "a_death",
-                "a_death",
-                "a_death",
-                "a_death",
-                "a_death"
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
             ]
         },
         {
