@@ -14602,7 +14602,7 @@
                 "a_white",
                 "a_white",
                 "a_white",
-                "a_death"
+                "a_white"
             ]
         },
         {
