@@ -156,10 +156,11 @@ body {font-family: vuonghiep; }
   bottom:0;
   left:0;
   /* cursor: url(https://i.imgur.com/0zaJ1Jq.png), auto !important; */
-  /* background-image: url(https://i.imgur.com/pWLFzxg.png); */
+  background-image: url(https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif);
   background-repeat: no-repeat;
   background-color: #e0e3bf !important;
-  background-image: linear-gradient(357deg, #e513bf, #0e8ce1);
+  /* background-image: linear-gradient(357deg, #e513bf, #0e8ce1); */
+  background-size: cover;
 }
 
 
@@ -470,17 +471,15 @@ body {font-family: vuonghiep; }
   width:240px;
   left:10px;
   border-radius: 10px;
-  background-image: linear-gradient(#e513bf, #0ee180);
+  /* background-image: linear-gradient(#e513bf, #0ee180); */
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text {
   border-radius:5px;
   height:330px;
-  
   overflow:scroll;
-  
   box-sizing:border-box;
-  color:rgba(255,255,255,.8);
+  /* color:rgba(255,255,255,.8); */
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text:nth-child(n+2) {
@@ -509,8 +508,8 @@ body {font-family: vuonghiep; }
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text p {
-  text-align:justify;
-  color: #ff0;
+  /* text-align:justify; */
+  /* color: #ff0; */
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text b {
@@ -3960,18 +3959,18 @@ body {font-family: vuonghiep; }
 #aqnvgcpz05orkobh {display:none;}
 
 #title, #titleSetings {
- text-shadow: 0 0 0 #f00, 0 0 0.5em #ff0, 0 0 0.4em #f00;
-    background: #3b2525;
-    background-image: linear-gradient(#8f22ff, #35b3a2);
-    text-transform: uppercase;
-    font-size: 15px;
-    font-weight: bold;
-    padding: 8px 8px 8px 5px;
-    display: block;
-    border-bottom: 1px solid #DBDBDB;
-    box-shadow: 0 1px 2px #D3D3D3;
-    color: #fff;
-    text-align: center;  
+ /* text-shadow: 0 0 0 #f00, 0 0 0.5em #ff0, 0 0 0.4em #f00; */
+ /* background: #3b2525; */
+ /* background-image: linear-gradient(#8f22ff, #35b3a2); */
+ /* text-transform: uppercase; */
+ font-size: 25px;
+ font-weight: bold;
+ padding: 8px 8px 8px 5px;
+ /* display: block; */
+ /* border-bottom: 8px solid #DBDBDB; */
+ box-shadow: 0 1px 2px #D3D3D3;
+ /* color: #fff; */
+ text-align: center;
 }
     
     
@@ -4031,8 +4030,7 @@ body {font-family: vuonghiep; }
   font-weight: bold;
   color: #fff;
   justify-content: space-evenly;
- text-shadow: 0 0 0 #2f882e, 0 0 0.5em #ff0000, 0 0 0.4em #ff0000;
-
+  text-shadow: 0 0 0 #2f882e, 0 0 0.5em #ff0000, 0 0 0.4em #ff0000;
 }
 .selectSala:hover {
     background: #ff0000;
@@ -4699,7 +4697,7 @@ width: 40px;
     margin-top: -41px;
     height: 40px;
     border: 1px #fff solid;
-    background: #f7941d;
+    background: #009cff;
 }
 
 
@@ -4775,7 +4773,7 @@ width: 40px;
 
  .spancursor{
     border-bottom: solid;
-    background: #3a37af;
+    background: #009cff;
     line-height: 2;
     color: #fff;
     font-size: 16px;
@@ -4807,7 +4805,7 @@ button:hover{
 
 
 .phdr1 {
-    background: #e67e22 url(https://i.imgur.com/MWsmh5i.png);
+    background: #009cff url(https://i.imgur.com/MWsmh5i.png);
     text-align: left;
     padding-left: 10px;
     text-transform: uppercase;
@@ -4822,7 +4820,7 @@ button:hover{
 }
 .hg {
     line-height: 1;
-    background: #f7941d;
+    background: #009cff;
     width: 60%;
     font-weight: 600;
     border-radius: 8px;
@@ -5051,7 +5049,7 @@ input[type="color"]::-moz-color-swatch {
 #loa831pibur0w4gv:hover,
 .description-text:hover
  {
-  border: 1px solid;
+  border: 4px solid;
   box-shadow: inset 0 0 20px rgba(255, 255, 255, 0.5),
       0 0 20px rgba(255, 255, 255, 0.2);
   outline-color: rgba(255, 255, 255, 0);
@@ -5131,6 +5129,6 @@ input[type="color"]::-moz-color-swatch {
 }
 
 .description-text, #loa831pibur0w4gv {
-    border: 1px solid #ffe1ff;
-    box-shadow: 0px 0px 15px 10px #cdff00;
+    /* border: 4px solid #ffffff; */
+    box-shadow: 0px 0px 15px 10px #00c7ff;
 }
