@@ -287,7 +287,7 @@ const ctx = {
         }),
     }
 };
-ctx.clock = PIXI.Sprite.fromImage("https://asserts.wormworld.io/images/clock.png");
+ctx.clock = PIXI.Sprite.fromImage("https://i.imgur.com/v6szE9c.png");
 ctx.clock.width = 100;
 ctx.clock.height = 100;
 ctx.clock.x = -50;
@@ -297,7 +297,7 @@ ctx.clock.y = -50;
 
 
 /*server name */
-ctx.value_server = new PIXI.Text("WFC", ctx.fontStyle.name);
+ctx.value_server = new PIXI.Text("WPS", ctx.fontStyle.name);
 ctx.value_server.x = 25;
 ctx.value_server.y = -18;
 
@@ -1246,7 +1246,7 @@ var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator 
                 };
             }, self;
         }
-        var LINE_LOGO_URL = "/images/linelogo-xmas2022.png",
+        var LINE_LOGO_URL = "https://i.imgur.com/KyKXrNH.png",
             GUEST_AVATAR_URL = "/images/guest-avatar-xmas2022.png",
             isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream,
             GATEWAY_HOST = atob("aHR0cHM6Ly9nYXRld2F5Lndvcm1hdGUuaW8="),
