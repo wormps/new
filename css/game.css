@@ -511,7 +511,7 @@ body {font-family: vuonghiep; }
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text p {
-  text-align: justify;
+  /* text-align: justify; */
   color: #ff0;
   /* font-weight: bold; */ /* KalÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±n font */
   /* font-size: 13px; */ /* Font boyutu */
@@ -3988,7 +3988,7 @@ color: #fff;
    
 background-image: url(https://i.imgur.com/jIN7bnA.png);
    
-z-index: 1;
+/* z-index: 1; */
    
 background-size: cover;
    
@@ -3996,7 +3996,7 @@ background-repeat: no-repeat;
    
 width: 270px;
    
-line-height: 3.2;
+line-height: 3.3;
 }
 
 .description-text-hiep {margin: 0px 15px 0px 15px;}
@@ -4599,7 +4599,7 @@ width: 40px;
 
 
 
-.team{float:right;height: 24px;width: 25px; vertical-align: middle ;margin-top:-3px;    margin-right: -3px;}
+.team{/* float:right; *//* height: 24px; *//* width: 25px; *//* vertical-align: middle ; *//* margin-top:-3px; *//* margin-right: -3px; */}
 
 
 
@@ -4895,13 +4895,15 @@ button:hover{
     margin-bottom: 90px;
     object-fit: fill;
 } 
-#online{background-color: #4dff00;
-    width: 12px;
-    height: 12px;
-    border-radius: 12px;
-    margin-top: 4px;
-    margin-right: 5px;
-    float: right;}  
+#online{
+    /* background-color: #4dff00; */
+    /* width: 12px; */
+    /* height: 12px; */
+    /* border-radius: 12px; */
+    /* margin-top: 4px; */
+    /* margin-right: 5px; */
+    /* float: right; */
+    }  
     
  .fullscreen_button ,.fullscreen_respawn, .fullscreen_contact {
  font-family: vuonghiep;
@@ -5948,7 +5950,7 @@ body {font-family: vuonghiep; }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text p,
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text h1 {
-  /* font-size:13px; */
+  font-size:13px;
   /* color:#fff; */
 }
 
@@ -5963,16 +5965,17 @@ body {font-family: vuonghiep; }
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text p {
-  /* text-align: justify; */
   color: #ff0;
   /* font-weight: bold; */ /* KalÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±n font */
-  font-size: 11px; /* Font boyutu */
-  /* font-family: Arial, sans-serif; */ /* Font ailesi */
-  text-transform: uppercase; /* TÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼m harfleri bÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼yÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼k yapar */
-  letter-spacing: 1px; /* Harfler arasÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â± boÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸luk */
+  font-size: 12px; /* Font boyutu */
+  font-family: Arial, sans-serif; /* Font ailesi */
+  /* text-transform: uppercase; */ /* TÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼m harfleri bÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼yÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼k yapar */
+  /* letter-spacing: 1px; */ /* Harfler arasÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â± boÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸luk */
   border-color: #ffffff; /* Kenar rengi */
   padding-left: 22px;
   padding-right: 22px;
+  margin: 4.5px;
+  margin-left: revert-layer;
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text b {
@@ -5998,9 +6001,9 @@ body {font-family: vuonghiep; }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-middle #mm-menu-cont .mm-logo {
      margin-top: -10px;
-     width: 130px;
+     width: 170px;
      height: 70px;
-     margin-left: 130px;
+     margin-left: 115px;
      border: none;
      outline: 0;
      -o-object-fit: contain;
@@ -9427,29 +9430,29 @@ body {font-family: vuonghiep; }
 
 #title, #titleSetings {
    
-height: 70px;
+/* height: 70px; */
    
-text-shadow: 0 0 0 #ff0, 0 0 0.5em #ff0, 0 0 0.4em #ff0;
+/* text-shadow: 0 0 0 #ff0, 0 0 0.5em #ff0, 0 0 0.4em #ff0; */
    
-font-size: 1.2em !important;
+/* font-size: 1.2em !important; */
    
-text-align: center;
+/* text-align: center; */
    
-font-weight: 700;
+/* font-weight: 700; */
    
-color: #fff;
+/* color: #fff; */
    
 /* background-image: url(https://i.imgur.com/GFsBVkN.png); */
    
-z-index: 1;
+/* z-index: 1; */
    
-background-size: cover;
+/* background-size: cover; */
    
-background-repeat: no-repeat;
+/* background-repeat: no-repeat; */
    
-width: 270px;
+/* width: 270px; */
    
-line-height: 3.2;
+/* line-height: 3.2; */
 }
 
 .description-text-hiep {margin: 0px 15px 0px 15px;}
@@ -10052,7 +10055,7 @@ width: 40px;
 
 
 
-.team{float:right;height: 24px;width: 25px;vertical-align: middle;margin-top: -3px;margin-right: -3px;}
+.team{float: right;height: 24px;width: 25px;vertical-align: middle;margin-top: -6px;margin-right: -5px;}
 
 
 
@@ -10339,13 +10342,15 @@ button:hover{
     margin-bottom: 90px;
     object-fit: fill;
 } 
-#online{background-color: #4dff00;
-    width: 12px;
-    height: 12px;
-    border-radius: 12px;
-    margin-top: 4px;
-    margin-right: 5px;
-    float: right;}  
+#online{
+    /* background-color: #4dff00; */
+    /* width: 12px; */
+    /* height: 12px; */
+    /* border-radius: 12px; */
+    /* margin-top: 4px; */
+    /* margin-right: 5px; */
+    /* float: right; */
+    }  
     
  .fullscreen_button ,.fullscreen_respawn, .fullscreen_contact {
  font-family: vuonghiep;
@@ -10440,9 +10445,9 @@ to{-webkit-transform:scale3d(0.068,0.068,0.068);transform:scale3d(0.068,0.068,0.
 @import url("https://milat2.com/css/font.css");
 
 ::-webkit-scrollbar{display:none}*
-body,html{background-color:#333;height:100%;width:100%;min-width:320px;min-height:320px;padding:0;margin:0;overflow:hidden;font-family: vuonghiep;}
+body,html{background-color:#333;height:100%;width:100%;min-width:320px;min-height:320px;padding:0;margin: 4.5;overflow:hidden;font-family: vuonghiep;}
 
-body {font-family: vuonghiep; }
+body {font-family: vuonghiep;}
 
 #1eaom01c3pxu9wd3 {
   width:100%;
