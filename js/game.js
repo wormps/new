@@ -5707,7 +5707,7 @@ else {
 <div class="iframe-container" style="margin-top: -3px;">
     <div class="spancursor">
         <i aria-hidden="true" class="fa fa-upload" style="color:#ff8f00; font-size: 25px; margin-right: 10px;"></i>
-        Ã‡Ã¶zÃ¼nÃ¼rlÃ¼k
+        Resolution
     </div>
 <div id="graphics-settings">
     <button onclick="applyGraphicsSettings('low', this)">Low</button>
@@ -6038,10 +6038,6 @@ https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margi
 
 
             $("#mm-coins-box").replaceWith(`<div style="margin: 0;" id="mm-coins-box">
-                
-                <button style='width: 140px;height: 45px;float: right;border-radius: 10px;border: solid #fac 2px;' id='getskin'>Unlock Skins</button>
-                </div>
-                </div>`);
                 
 
 window.multiplier = 0.625;
