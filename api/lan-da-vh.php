@@ -19640,7 +19640,7 @@
     {
       "id": 4243,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -21671,8 +21671,8 @@
         "a_death",
         "a_death"
       ],
-      "guest": true,
-      "nonbuyable": true,
+      "guest": false,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw"
@@ -21701,8 +21701,8 @@
         "a_black",
         "a_death"
       ],
-      "guest": true,
-      "nonbuyable": true,
+      "guest": false,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw"
