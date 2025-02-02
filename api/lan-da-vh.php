@@ -33558,7 +33558,7 @@
     },
     "hat_201": {
       "custom": true,
-      "relativePath": "https://www.wormatefriendsturkey.com/images/texture/hat/hat_wftmevoreis5.png"
+      "relativePath": "https://i.imgur.com/zKSmHIL.png"
     },
     "hat_202": {
       "custom": true,
@@ -33570,7 +33570,7 @@
     },
 	"hat_204": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/zKSmHIL.png"
+      "relativePath": "https://i.imgur.com/AaIgudL.png"
     },
 	"hat_205": {
       "custom": true,
@@ -33578,7 +33578,7 @@
     },
 	"hat_206": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/FqT74Oc.png"
+      "relativePath": "https://i.imgur.com/dl9tYQV.png"
     },
     "mouth_01": {
       "custom": true,
