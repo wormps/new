@@ -33570,7 +33570,7 @@
     },
 	"hat_204": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/drYHItg.png"
+      "relativePath": "https://i.imgur.com/zKSmHIL.png"
     },
 	"hat_205": {
       "custom": true,
@@ -33702,7 +33702,7 @@
     },
     "eyes_04": {
       "custom": true,
-      "relativePath": "https://milat2.com/images/texture/eyes/eyes__263.png"
+      "relativePath": "https://i.imgur.com/SHJTm6H.png"
     },
     "eyes_05": {
       "custom": true,
