@@ -32022,7 +32022,7 @@
     },
     "skin_wftmevonumaraci01": {
       "custom": true,
-      "relativePath": "https://wormatefriendsturkey.com/images/texture/skin_tcteam/skin_skin_wftmevonumaraci01.png"
+      "relativePath": "https://wormatefriendsturkey.com/images/texture/skin_tcteam/skin_skin_wftnumaraci01.png"
     },
     "skin_wftsadecegülll61": {
       "custom": true,
@@ -32338,7 +32338,7 @@
     },
     "skins_wft_mevo01": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/CFlazVv.png"
+      "relativePath": "https://i.imgur.com/MtpNSSF.png"
     },
     "skins_wft_mevo02": {
       "custom": true,
@@ -33570,7 +33570,7 @@
     },
 	"hat_204": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/AaIgudL.png"
+      "relativePath": "https://i.imgur.com/YkXfQNX.png"
     },
 	"hat_205": {
       "custom": true,
@@ -33578,7 +33578,7 @@
     },
 	"hat_206": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/dl9tYQV.png"
+      "relativePath": "https://i.imgur.com/dD0K4x2.png"
     },
     "mouth_01": {
       "custom": true,
