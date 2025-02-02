@@ -19010,7 +19010,7 @@
     {
       "id": 4222,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": 0,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -19040,7 +19040,7 @@
     {
       "id": 4223,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": 0,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -29903,7 +29903,9 @@
       },
       "list": [
         "855",
-        "1840"
+        "1840",
+        "4222",
+        "4223"
       ]
     },
     {
@@ -29949,7 +29951,7 @@
         "en": "Friends"
       },
       "list": [
-        "4241"
+        "33"
       ]
     },
     {
@@ -32336,11 +32338,11 @@
     },
     "skins_wft_mevo01": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/0RZeTdi.png"
+      "relativePath": "https://i.imgur.com/CFlazVv.png"
     },
     "skins_wft_mevo02": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/8EbdEUw.png"
+      "relativePath": "https://i.imgur.com/hfnsdEe.png"
     },
     "skins_wft_mevo03": {
       "custom": true,
@@ -33568,7 +33570,7 @@
     },
 	"hat_204": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/S1n9kTH.png"
+      "relativePath": "https://i.imgur.com/drYHItg.png"
     },
 	"hat_205": {
       "custom": true,
@@ -33700,7 +33702,7 @@
     },
     "eyes_04": {
       "custom": true,
-      "relativePath": "https://www.wormatefriendsturkey.com/images/texture/eyes/eyes_04.png"
+      "relativePath": "https://milat2.com/images/texture/eyes/eyes__263.png"
     },
     "eyes_05": {
       "custom": true,
