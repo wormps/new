@@ -5733,7 +5733,7 @@ else {
       <center>
         <div class="hg"><a target="_blank" href="https://discord.gg/8SECrUtJDD">Activated (SekoV4)</a> </div>
       </center>
-     <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> </a> </div>
+     <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i>Activation Price $1</a> </div>
       
     
 </div>`);
