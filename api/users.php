@@ -12,7 +12,7 @@
             "id": 4,
             "cliente_NOMBRE": "Seko",
             "cliente_ID": "gg_106263452150533879793",
-            "cliente_DateExpired": "22-12-3099",
+            "cliente_DateExpired": "22-12-9000",
             "status": 1
         },
         {
