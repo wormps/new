@@ -33702,7 +33702,7 @@
     },
     "eyes_04": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/5Byd89G.png""
+      "relativePath": "https://i.imgur.com/5Byd89G.png"
     "eyes_05": {
       "custom": true,
       "relativePath": "https://i.imgur.com/NqIm759.png"
