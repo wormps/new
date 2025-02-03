@@ -353,21 +353,22 @@ body {display:block !important;}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top #mm-coins-box .mm-coins-img {
   vertical-align:top;
   display:inline-block;
-  width:50px;
-  height:50px;
+  width: 00px;
+  height: 0px;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top #mm-coins-box #mm-coins-val {
-  vertical-align:top;
-  display:inline-block;
-  width:130px;
-  height:50px;
-  line-height:50px;
+  /* vertical-align:top; */
+  /* display:inline-block; */
+  /* width: 0px; */
+  /* height:50px; */
+  /* line-height: 00px; */
   font-size:20px;
   text-align:center;
+  color: #7fff0000;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top #mm-coins-box #mm-coins-buy {
-  background-color:#8bc34a;
-  color:#fff;
+  background-color: #8bc34a00;
+  color: #ffffff00;
   overflow:hidden;
   line-height:50px;
   font-size:24px;
@@ -375,22 +376,22 @@ body {display:block !important;}
   box-sizing:border-box;
   border-radius:5px;
   border:0;
-  outline:0;
-  box-shadow:0 1px 1px 0 rgba(0,0,0,.2);
-  text-align:center;
-  text-shadow:0 0 1px #000;
-  cursor:pointer;
-  transition:background-color .5s ease;
-  vertical-align:top;
-  display:inline-block;
-  width:120px;
-  height:50px;
-  font-size:20px;
-  margin-left: -20px;
+  /* outline:0; */
+  /* box-shadow:0 1px 1px 0 rgba(0,0,0,.2); */
+  /* text-align:center; */
+  text-shadow: 0 0 1px #00000000;
+  /* cursor:pointer; */
+  /* transition:background-color .5s ease; */
+  /* vertical-align:top; */
+  /* display:inline-block; */
+  /* width:120px; */
+  /* height:50px; */
+  /* font-size:20px; */
+  /* margin-left: -20px; */
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top #mm-coins-box #mm-coins-buy:hover {
   box-shadow:0 1px 1px 0 rgba(0,0,0,.5);
-  background-color:#a4d070;
+  background-color: #a4d07000;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top #mm-coins-box #mm-coins-buy:focus {outline:none;}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top #mm-coins-box #mm-coins-buy * {vertical-align:middle;}
