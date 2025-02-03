@@ -33570,7 +33570,7 @@
     },
 	"hat_204": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/YkXfQNX.png"
+      "relativePath": "https://i.imgur.com/7TmpzDl.png"
     },
 	"hat_205": {
       "custom": true,
@@ -33578,7 +33578,7 @@
     },
 	"hat_206": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/dD0K4x2.png"
+      "relativePath": "https://i.imgur.com/9zX5wBa.png"
     },
     "mouth_01": {
       "custom": true,
@@ -33702,7 +33702,7 @@
     },
     "eyes_04": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/SHJTm6H.png"
+      "relativePath": "https://i.imgur.com/9BFLdZK.png"
     },
     "eyes_05": {
       "custom": true,
