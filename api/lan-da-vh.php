@@ -26374,7 +26374,7 @@
     {
       "id": 3557,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -30217,27 +30217,75 @@
     {
       "isCustom": true,
       "id": "TC Team",
-      "img": "seko.png",
+      "img": "tc team2.png",
       "name": {
         "en": "Flags Flags"
       },
       "list": [
         "855",
         "720",
-        "1840"
+        "4613",
+        "841",
+        "842",
+        "846",
+        "847",
+        "848",
+        "721",
+        "734",
+        "834",
+        "736",
+        "739",
+        "751",
+        "762",
+        "768",
+        "772",
+        "779",
+        "782",
+        "783",
+        "798",
+        "4239",
+        "4246",
+        "4247",
+        "4248",
+        "4249",
+        "4252",
+        "743",
+        "4253",
+        "4520",
+        "4501",
+        "4502",
+        "737",
+        "4604",
+        "4555",
+        "4251",
+        "4511",
+        "4513",
+        "4516",
+        "4517",
+        "4607",
+        "4609",
+        "4612",
+        "4264"
       ]
     },
     {
       "isCustom": true,
       "id": "TR Team",
-      "img": "pandis.png",
+      "img": "yildotr.png",
       "name": {
         "en": "Flags Flags"
       },
       "list": [
-        "777",
-	"778",
-        "4243"
+        "1842",
+	"823",
+        "824",
+        "825",
+        "4255",
+        "4254",
+        "4259",
+        "4267",
+        "4271",
+        "4272"
       ]
     },
     {
@@ -30266,12 +30314,166 @@
     {
       "isCustom": true,
       "id": "TC Team",
+      "img": "mmuhtarggaming.png",
+      "name": {
+        "en": "Flags Flags"
+      },
+      "list": [
+        "4230",
+        "4231",
+        "4268",
+        "4276",
+        "4277",
+        "758",
+        "763",
+        "764",
+        "765",
+        "766",
+        "767",
+        "752",
+        "750",
+        "747",
+        "748",
+        "749",
+        "807",
+        "808",
+        "4278"
+      ]
+    },
+    {
+      "isCustom": true,
+      "id": "SVS Team",
+      "img": "svsgaming.png",
+      "name": {
+        "en": "Flags Flags"
+      },
+      "list": [
+        "4269",
+        "4270",
+        "4279",
+        "4280",
+        "4281"
+      ]
+    },
+    {
+      "isCustom": true,
+      "id": "TC Team",
+      "img": "roxgaming.png",
+      "name": {
+        "en": "Flags Flags"
+      },
+      "list": [
+        "738",
+        "769",
+        "770",
+        "781",
+        "812",
+        "814",
+        "815",
+        "816",
+        "840",
+        "4229",
+        "4232",
+        "4233",
+        "4234"
+      ]
+    },
+    {
+      "isCustom": true,
+      "id": "TC Team",
+      "img": "krdnz.png",
+      "name": {
+        "en": "Flags Flags"
+      },
+      "list": [
+        "700",
+        "701",
+        "703",
+        "704",
+        "705",
+        "706",
+        "707",
+        "775",
+        "787",
+        "795",
+        "799",
+        "800",
+        "804",
+        "805",
+        "818",
+        "829",
+        "830",
+        "831",
+        "832",
+        "836",
+        "857",
+        "4245",
+        "4507",
+        "4515",
+        "4256"
+      ]
+    },
+    {
+      "isCustom": true,
+      "id": "TC Team",
+      "img": "yal2do.png",
+      "name": {
+        "en": "Flags Flags"
+      },
+      "list": [
+        "741",
+        "819",
+        "820",
+        "821",
+        "822",
+        "4221",
+        "4258",
+        "4506",
+        "4263"
+      ]
+    },
+    {
+      "isCustom": true,
+      "id": "GicikBey",
+      "img": "gicikbey.png",
+      "name": {
+        "en": "GicikBey"
+      },
+      "list": [
+        "723",
+        "724"
+      ]
+    },
+    {
+      "isCustom": true,
+      "id": "Dacote",
+      "img": "dacote.png",
+      "name": {
+        "en": "Dacote"
+      },
+      "list": [
+        "4605",
+        "4606",
+        "858",
+        "835"
+      ]
+    },
+    {
+      "isCustom": true,
+      "id": "TC Team",
       "img": "Tiktok_streamers.png",
       "name": {
         "en": "Flags Flags"
       },
       "list": [
-        "4243"
+        "745",
+        "817",
+        "843",
+        "844",
+        "4241",
+        "4600",
+        "4610",
+        "4242"
       ]
     },
     {
@@ -30282,7 +30484,39 @@
         "en": "Flags Flags"
       },
       "list": [
-        "4243"
+        "722",
+        "731",
+        "740",
+        "742",
+        "757",
+        "760",
+        "776",
+        "777",
+        "778",
+        "788",
+        "790",
+        "791",
+        "802",
+        "803",
+        "833",
+        "796",
+        "850",
+        "852",
+        "853",
+        "854",
+        "4236",
+        "4228",
+        "4237",
+        "4238",
+        "4243",
+        "4262",
+        "4503",
+        "4514",
+        "4521",
+        "4556",
+        "4608",
+        "4611",
+        "4266"
       ]
     },
     {
@@ -30293,7 +30527,16 @@
         "en": "Friends"
       },
       "list": [
-        "4243"
+        "726",
+        "727",
+        "4227",
+        "4250",
+        "4275",
+        "729",
+        "730",
+        "806",
+        "826",
+        "845"
       ]
     },
     {
@@ -30866,7 +31109,7 @@
     },
     "skin_tcteam": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/hfnsdEe.png
+      "relativePath": "https://i.imgur.com/PCAmmo7.png"
     },
     "skin_pacman": {
       "custom": true,
@@ -31294,7 +31537,7 @@
     },
     "skin_chery_03": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/1A0HI4d.png"
+      "relativePath": "https://i.imgur.com/cxHoHYn.png"
     },
     "nonamilo_01": {
       "custom": true,
@@ -32122,7 +32365,7 @@
     },
     "skin_wftarzugammıng611": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/MtpNSSF.png"
+      "relativePath": "https://wormatefriendsturkey.com/images/texture/skin_tcteam/skin_skin_wftarzugammıng611.png"
     },
     "skin_wftdilegimmm": {
       "custom": true,
@@ -33942,7 +34185,7 @@
     },
     "hat_201": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/zKSmHIL.png"
+      "relativePath": "https://www.wormatefriendsturkey.com/images/texture/hat/hat_wftmevoreis5.png"
     },
     "hat_202": {
       "custom": true,
@@ -33954,7 +34197,7 @@
     },
 	"hat_204": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/MtpNSSF.png"
+      "relativePath": "https://i.imgur.com/mjHDjH7.png"
     },
 	"hat_205": {
       "custom": true,
@@ -33962,7 +34205,7 @@
     },
 	"hat_206": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/9zX5wBa.png"
+      "relativePath": "https://i.imgur.com/FqT74Oc.png"
     },
     "mouth_01": {
       "custom": true,
@@ -34086,7 +34329,7 @@
     },
     "eyes_04": {
       "custom": true,
-      "relativePath": "hhttps://i.imgur.com/vahBf2R.png"
+      "relativePath": "https://i.imgur.com/7w8Jv5t.png"
     },
     "eyes_05": {
       "custom": true,
