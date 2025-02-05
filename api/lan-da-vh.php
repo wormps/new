@@ -9429,14 +9429,14 @@
         "skin_tcteam_0"
       ],
       "glow": [
-        "a_ruby",
-        "a_ruby",
-        "a_ruby",
-        "a_ruby",
-        "a_ruby",
-        "a_ruby",
-        "a_ruby",
-        "a_ruby"
+        "a_white",
+        "a_white",
+        "a_white",
+        "a_white",
+        "a_white",
+        "a_white",
+        "a_white",
+        "a_white"
       ]
     },
     {
@@ -19960,7 +19960,7 @@
     {
       "id": 4243,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -21991,8 +21991,8 @@
         "a_death",
         "a_death"
       ],
-      "guest": true,
-      "nonbuyable": true,
+      "guest": false,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw"
@@ -22021,8 +22021,8 @@
         "a_black",
         "a_death"
       ],
-      "guest": true,
-      "nonbuyable": true,
+      "guest": false,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw"
@@ -25060,7 +25060,7 @@
     {
       "id": 4275,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -30217,306 +30217,27 @@
     {
       "isCustom": true,
       "id": "TC Team",
-      "img": "tc team2.png",
+      "img": "seko.png",
       "name": {
         "en": "Flags Flags"
       },
       "list": [
         "855",
-        "720",
-        "4613",
-        "841",
-        "842",
-        "846",
-        "847",
-        "848",
-        "721",
-        "734",
-        "834",
-        "736",
-        "739",
-        "751",
-        "762",
-        "768",
-        "772",
-        "779",
-        "782",
-        "783",
-        "798",
-        "4239",
-        "4246",
-        "4247",
-        "4248",
-        "4249",
-        "4252",
-        "743",
-        "4253",
-        "4520",
-        "4501",
-        "4502",
-        "737",
-        "4604",
-        "4555",
-        "4251",
-        "4511",
-        "4513",
-        "4516",
-        "4517",
-        "4607",
-        "4609",
-        "4612",
-        "4264"
+        "1840",
+        "4275"
       ]
     },
     {
       "isCustom": true,
       "id": "TR Team",
-      "img": "yildotr.png",
+      "img": "pandis.png",
       "name": {
         "en": "Flags Flags"
       },
       "list": [
-        "1842",
-	"823",
-        "824",
-        "825",
-        "4255",
-        "4254",
-        "4259",
-        "4267",
-        "4271",
-        "4272"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "TC Team",
-      "img": "mevoreis.png",
-      "name": {
-        "en": "Flags Flags"
-      },
-      "list": [
-        "4222",
-        "4223",
-        "4224",
-        "4225",
-        "4260",
-        "4261",
-        "780",
-        "789",
-        "792",
-        "793",
-        "794",
-        "4518",
-        "4226"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "TC Team",
-      "img": "mmuhtarggaming.png",
-      "name": {
-        "en": "Flags Flags"
-      },
-      "list": [
-        "4230",
-        "4231",
-        "4268",
-        "4276",
-        "4277",
-        "758",
-        "763",
-        "764",
-        "765",
-        "766",
-        "767",
-        "752",
-        "750",
-        "747",
-        "748",
-        "749",
-        "807",
-        "808",
-        "4278"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "SVS Team",
-      "img": "svsgaming.png",
-      "name": {
-        "en": "Flags Flags"
-      },
-      "list": [
-        "4269",
-        "4270",
-        "4279",
-        "4280",
-        "4281"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "TC Team",
-      "img": "roxgaming.png",
-      "name": {
-        "en": "Flags Flags"
-      },
-      "list": [
-        "738",
-        "769",
-        "770",
-        "781",
-        "812",
-        "814",
-        "815",
-        "816",
-        "840",
-        "4229",
-        "4232",
-        "4233",
-        "4234"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "TC Team",
-      "img": "krdnz.png",
-      "name": {
-        "en": "Flags Flags"
-      },
-      "list": [
-        "700",
-        "701",
-        "703",
-        "704",
-        "705",
-        "706",
-        "707",
-        "775",
-        "787",
-        "795",
-        "799",
-        "800",
-        "804",
-        "805",
-        "818",
-        "829",
-        "830",
-        "831",
-        "832",
-        "836",
-        "857",
-        "4245",
-        "4507",
-        "4515",
-        "4256"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "TC Team",
-      "img": "yal2do.png",
-      "name": {
-        "en": "Flags Flags"
-      },
-      "list": [
-        "741",
-        "819",
-        "820",
-        "821",
-        "822",
-        "4221",
-        "4258",
-        "4506",
-        "4263"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "GicikBey",
-      "img": "gicikbey.png",
-      "name": {
-        "en": "GicikBey"
-      },
-      "list": [
-        "723",
-        "724"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "Dacote",
-      "img": "dacote.png",
-      "name": {
-        "en": "Dacote"
-      },
-      "list": [
-        "4605",
-        "4606",
-        "858",
-        "835"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "TC Team",
-      "img": "Tiktok_streamers.png",
-      "name": {
-        "en": "Flags Flags"
-      },
-      "list": [
-        "745",
-        "817",
-        "843",
-        "844",
-        "4241",
-        "4600",
-        "4610",
-        "4242"
-      ]
-    },
-    {
-      "isCustom": true,
-      "id": "TC Team",
-      "img": "normaloyuncu.png",
-      "name": {
-        "en": "Flags Flags"
-      },
-      "list": [
-        "722",
-        "731",
-        "740",
-        "742",
-        "757",
-        "760",
-        "776",
-        "777",
-        "778",
-        "788",
-        "790",
-        "791",
-        "802",
-        "803",
-        "833",
-        "796",
-        "850",
-        "852",
-        "853",
-        "854",
-        "4236",
-        "4228",
-        "4237",
-        "4238",
         "4243",
-        "4262",
-        "4503",
-        "4514",
-        "4521",
-        "4556",
-        "4608",
-        "4611",
-        "4266"
+	"777",
+        "778",
       ]
     },
     {
@@ -31109,7 +30830,7 @@
     },
     "skin_tcteam": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/PCAmmo7.png"
+      "relativePath": "https://i.imgur.com/hfnsdEe.png"
     },
     "skin_pacman": {
       "custom": true,
