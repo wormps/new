@@ -52,126 +52,126 @@
         },
         {
             "id": 700,
-            "name": "01.\ud83d\udd34 YT Nona Milano<img class='team' src='https://i.imgur.com/RQTKt8G.jpeg'/><div id='online'></div>",
+            "name": "01.INDIA<img class='team' src='###'/><div id='online'></div>",
             "region": "australia",
             "serverUrl": "wss://mum-a.wormate.io:31211/wormy",
             "status": 1
         },
         {
             "id": 606,
-            "name": "07. Wormate Friend<div id='hoat-dong'></div>",
+            "name": "07. WPS-JAPAN<div id='hoat-dong'></div>",
             "region": "japon",
             "serverUrl": "wss://tok-b.wormate.io:31091/wormy",
             "status": 1
         },
         {
             "id": 605,
-            "name": "06. Wormate Friend",
+            "name": "06. WPS-JAPAN",
             "region": "japon",
             "serverUrl": "wss://tok-b.wormate.io:30725/wormy",
             "status": 1
         },
         {
             "id": 604,
-            "name": "05. Wormate Friend",
+            "name": "05. WPS-JAPAN",
             "region": "japon",
             "serverUrl": "wss://tok-b.wormate.io:30161/wormy",
             "status": 1
         },
         {
             "id": 603,
-            "name": "04. Wormate Friend ",
+            "name": "04. WPS-JAPAN",
             "region": "japon",
             "serverUrl": "wss://tok-b.wormate.io:32499/wormy",
             "status": 1
         },
         {
             "id": 602,
-            "name": "03. Wormate Friend",
+            "name": "03. WPS-JAPAN",
             "region": "japon",
             "serverUrl": "wss://tok-b.wormate.io:30786/wormy",
             "status": 1
         },
         {
             "id": 601,
-            "name": "02. Wormate Friend",
+            "name": "02. WPS-JAPAN",
             "region": "japon",
             "serverUrl": "wss://tok-b.wormate.io:31770/wormy",
             "status": 1
         },
         {
             "id": 600,
-            "name": "01. Wormate Friend",
+            "name": "01. WPS-JAPAN",
             "region": "japon",
             "serverUrl": "wss://tok-b.wormate.io:30171/wormy",
             "status": 1
         },
         {
             "id": 545,
-            "name": "06. AU -NEW<img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "06. WPS-AU<img class='team' src='###'/>",
             "region": "granbretana",
             "serverUrl": "wss://dal-b.wormate.io:31163/wormy",
             "status": 1
         },
         {
             "id": 544,
-            "name": "05. AU - NEW<img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "05. WPS-AU<img class='team' src='###'/>",
             "region": "granbretana",
             "serverUrl": "wss://sin-a.wormate.io:31510/wormy",
             "status": 1
         },
         {
             "id": 544,
-            "name": "04. AU - SV VIP<img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "04. WPS-AU<img class='team' src='###'/>",
             "region": "granbretana",
             "serverUrl": "wss://syd-a.wormate.io:31882/wormy",
             "status": 1
         },
         {
             "id": 542,
-            "name": "03. \ud83e\udd55 KTR Gaming<img class='team' src='https://haylamday.com/images/team/kiss-the-rain.PNG'/> ",
+            "name": "03. WPS-AU<img class='team' src='###'/> ",
             "region": "granbretana",
             "serverUrl": "wss://syd-a.wormate.io:31882/wormy",
             "status": 1
         },
         {
             "id": 541,
-            "name": "02. AU - WFC<img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='hoat-dong'></div>",
+            "name": "02. WPS-AU<img class='team' src='###'/><div id='hoat-dong'></div>",
             "region": "granbretana",
             "serverUrl": "wss://syd-a.wormate.io:31238/wormy",
             "status": 1
         },
         {
             "id": 540,
-            "name": "01.\ud83d\udd34 YT Nona Milano<img class='team' src='https://i.imgur.com/RQTKt8G.jpeg'/><div id='hoat-dong'></div>",
+            "name": "01.WPS-AU<img class='team' src='###'/><div id='hoat-dong'></div>",
             "region": "granbretana",
             "serverUrl": "wss://syd-a.wormate.io:31342/wormy",
             "status": 1
         },
         {
             "id": 473,
-            "name": "04. UAE - WFC<img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='hoat-dong'></div>",
+            "name": "04. WPS-UAE<img class='team' src='###'/><div id='hoat-dong'></div>",
             "region": "mexico",
             "serverUrl": "wss://dxb-a.wormate.io:31353/wormy",
             "status": 1
         },
         {
             "id": 473,
-            "name": "03. SAG - Ali Gaming <img class='team' src='https://haylamday.com/images/team/aligaming.JPG'/><div id='hoat-dong'></div><div id='online'></div>",
+            "name": "03. WPS-UAE <img class='team' src='###'/><div id='hoat-dong'></div><div id='online'></div>",
             "region": "mexico",
             "serverUrl": "wss://dxb-a.wormate.io:32703/wormy",
             "status": 1
         },
         {
             "id": 472,
-            "name": "02. FIRE@YT\ud83d\udd25 <img class='team' src='https://haylamday.com/images/team/fire.JPG'/> <div id='online'></div>",
+            "name": "02. WPS-UAE <img class='team' src='###'/> <div id='online'></div>",
             "region": "mexico",
             "serverUrl": "wss://dxb-a.wormate.io:31975/wormy",
             "status": 1
         },
         {
             "id": 470,
-            "name": "01.\ud83d\udd34 YT Nona Milano<img class='team' src='https://i.imgur.com/RQTKt8G.jpeg'/> <div id='online'></div>",
+            "name": "01. WPS-UAE<img class='team' src='###'/> <div id='online'></div>",
             "region": "mexico",
             "serverUrl": "wss://dxb-a.wormate.io:32703/wormy",
             "status": 1
