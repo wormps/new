@@ -5799,7 +5799,7 @@ https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margi
       <img src="https://i.imgur.com/tzXGkDO.png" alt="nona" width="155">
     </a>
     <a href="###" target="_blank">
-      <img src="https://imgur.com/mIKEdP6.png" alt="wfc" width="155">
+      <img src="https://imgur.com/5cCaxAT.png" alt="wfc" width="155">
     </a>
   </div>`);
             $(document).ready(function () {
