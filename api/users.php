@@ -24,9 +24,9 @@
         },
         {
             "id": 7,
-            "cliente_NOMBRE": "YPG Gaming Mi\u1ec5n Ph\u00ed Gaming",
-            "cliente_ID": "gg_112856904905026318803",
-            "cliente_DateExpired": "22-12-2026",
+            "cliente_NOMBRE": "SMV GAMİNG",
+            "cliente_ID": "gg_110536146782798414946",
+            "cliente_DateExpired": "10-02-2025",
             "status": 1
         },
         {
