@@ -30243,7 +30243,7 @@
     {
       "isCustom": true,
       "id": "TC Team",
-      "img": "friends.png",
+      "img": "st.png",
       "name": {
         "en": "Friends"
       },
