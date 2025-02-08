@@ -22360,7 +22360,7 @@
     {
       "id": 790,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": 0,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -22420,7 +22420,7 @@
     {
       "id": 792,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": 0,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -30260,8 +30260,8 @@
       },
       "list": [
         "794",
-	"852",
-	"853"
+	"792",
+	"790"
       ]
     },
     {
@@ -32362,7 +32362,7 @@
     },
     "skin_skin_wftegeeee": {
       "custom": true,
-      "relativePath": "https://wormatefriendsturkey.com/images/texture/skin_tcteam/skin_skin_wftegeeee.png"
+      "relativePath": "https://i.imgur.com/eKd14jm.png"
     },
     "skin_garipyolcu": {
       "custom": true,
@@ -32370,7 +32370,7 @@
     },
     "skin_akinci": {
       "custom": true,
-      "relativePath": "https://wormatefriendsturkey.com/images/texture/skin_tcteam/skin_akinci.png"
+      "relativePath": "https://i.imgur.com/yaRBjuc.png"
     },
     "skin_wftmevonumaraci01": {
       "custom": true,
