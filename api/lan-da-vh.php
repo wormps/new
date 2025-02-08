@@ -30253,6 +30253,17 @@
     },
     {
       "isCustom": true,
+      "id": "TC Team",
+      "img": "kurdistan75.png",
+      "name": {
+        "en": "Friends"
+      },
+      "list": [
+        "794"
+      ]
+    },
+    {
+      "isCustom": true,
       "id": "Turkish Flag",
       "img": "turkish-flag.png",
       "name": {
@@ -32341,7 +32352,7 @@
     },
     "skin_mevoreis03": {
       "custom": true,
-      "relativePath": "https://wormatefriendsturkey.com/images/texture/skin_tcteam/skin_mevoreis03.png"
+      "relativePath": "https://i.imgur.com/OajnbFf.png"
     },
     "skin_skin_wftyıldırım": {
       "custom": true,
