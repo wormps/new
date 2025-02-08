@@ -31,9 +31,9 @@
         },
         {
             "id": 8,
-            "cliente_NOMBRE": "H\u1eefu C\u01b0\u1eddng Mi\u1ec5n Ph\u00ed NSND",
-            "cliente_ID": "gg_104036191490514828222",
-            "cliente_DateExpired": "22-12-2027",
+            "cliente_NOMBRE": "BabaPro31",
+            "cliente_ID": "gg_109807140907260791572",
+            "cliente_DateExpired": "11-02-2025",
             "status": 1
         },
         {
