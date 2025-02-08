@@ -9471,7 +9471,7 @@
     {
       "id": 853,
       "guest": false,
-      "nonbuyable": 1,
+      "nonbuyable": 0,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -9500,7 +9500,7 @@
     {
       "id": 852,
       "guest": false,
-      "nonbuyable": 1,
+      "nonbuyable": 0,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -30259,7 +30259,9 @@
         "en": "Friends"
       },
       "list": [
-        "794"
+        "794",
+        "853",
+        "852"
       ]
     },
     {
@@ -32528,11 +32530,11 @@
     },
     "skin_sinopluuı": {
       "custom": true,
-      "relativePath": "https://wormatefriendsturkey.com/images/texture/skin_tcteam/skin_sinopluuı.png"
+      "relativePath": "https://i.imgur.com/rTCuLdJ.png"
     },
     "skin_sinopluuı2": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/PMrAbnz.png"
+      "relativePath": "https://i.imgur.com/ExGNwan.png"
     },
     "skin_yildobaba01": {
       "custom": true,
@@ -33920,15 +33922,15 @@
     },
 	"hat_204": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/mjHDjH7.png"
+      "relativePath": "https://i.imgur.com/Ur8ijhD.png"
     },
 	"hat_205": {
       "custom": true,
-      "relativePath": "https://www.wormatefriendsturkey.com/images/texture/hat/hat_sinoplu.png"
+      "relativePath": "https://i.imgur.com/SkkfjJX.png"
     },
 	"hat_206": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/FqT74Oc.png"
+      "relativePath": "https://i.imgur.com/7onClTR.png"
     },
     "mouth_01": {
       "custom": true,
