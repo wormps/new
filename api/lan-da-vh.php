@@ -22480,7 +22480,7 @@
     {
       "id": 794,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": false,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
