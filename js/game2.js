@@ -1402,7 +1402,7 @@ var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator 
                     }, t.Lc = {}, t.Mc = {
                         Zc: null
                     }, t.Nc = {}, t.Oc = {
-                        _c: "#FFFFFF",
+                        _c: "#FFA500",
                         Zc: [],
                         $c: []
                     }, t.Pc = {}, t.Qc = {
