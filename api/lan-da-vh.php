@@ -33911,7 +33911,7 @@
     },
     "hat_201": {
       "custom": true,
-      "relativePath": "https://www.wormatefriendsturkey.com/images/texture/hat/hat_wftmevoreis5.png"
+      "relativePath": "hhttps://i.imgur.com/zKSmHIL.png"
     },
     "hat_202": {
       "custom": true,
@@ -34055,7 +34055,7 @@
     },
     "eyes_04": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/7w8Jv5t.png"
+      "relativePath": "https://milat2.com/images/texture/eyes/eyes__263.png"
     },
     "eyes_05": {
       "custom": true,
@@ -37953,10 +37953,10 @@
       "texture": "eyes_04",
       "x": 0,
       "y": 0,
-      "w": 56,
-      "h": 114,
-      "px": 71,
-      "py": 63,
+      "w": 400,
+      "h": 250,
+      "px": -5,
+      "py": 1,
       "pw": 128,
       "ph": 128
     },
