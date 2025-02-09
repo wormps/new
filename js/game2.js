@@ -5703,18 +5703,6 @@ else {
     </tbody>
 </table>
 
-            <!-- Ä°FRAME BURAYA EKLENDÄ° -->
-<div class="iframe-container" style="margin-top: -3px;">
-    <div class="spancursor">
-        <i aria-hidden="true" class="fa fa-upload" style="color:#ff8f00; font-size: 25px; margin-right: 10px;"></i>
-        Resolution
-    </div>
-<div id="graphics-settings">
-    <button onclick="applyGraphicsSettings('low', this)">Low</button>
-    <button onclick="applyGraphicsSettings('medium', this)">Medium</button>
-    <button onclick="applyGraphicsSettings('high', this)">Hight</button>
-</div>
-
 <center><div class="hg"><a target="_blank" href="https://discord.gg/8SECrUtJDD">Activated (SekoV4,PANDAX)</a></div></center>
 
            
