@@ -30225,7 +30225,8 @@
         "855",
         "1840",
         "4275",
-	"752"
+	"752",
+	"3557"
       ]
     },
     {
@@ -31263,7 +31264,7 @@
     },
     "skin_chery_03": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/cxHoHYn.png"
+      "relativePath": "https://i.imgur.com/hlbE3o4.png"
     },
     "nonamilo_01": {
       "custom": true,
