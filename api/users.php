@@ -17,9 +17,9 @@
         },
         {
             "id": 6,
-            "cliente_NOMBRE": "Th\u01b0 K\u00fd Bigo",
-            "cliente_ID": "gg_117479909469461690042",
-            "cliente_DateExpired": "22-12-2025",
+            "cliente_NOMBRE": "svs murat abi",
+            "cliente_ID": "gg_117116052517116923328",
+            "cliente_DateExpired": "14-02-2025",
             "status": 1
         },
         {
