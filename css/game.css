@@ -958,10 +958,10 @@ body {display:block !important;}
   top:25px;
 }
 #game-wrap #game-cont #stretch-box #popup-view .stretch-container {
-    box-shadow: 0px 0px 15px 10px #cdff00;
-  background:rgba(47,46,68,.4);
-  border-radius:5px;
-  overflow:hidden;
+    box-shadow: 0px 0px 15px 10px #ffffff;
+    background:rgba(47,46,68,.4);
+    border-radius:5px;
+    overflow:hidden;
 }
 #game-wrap #game-cont #stretch-box #popup-view .popup-view-head {height:40px;}
 #game-wrap #game-cont #stretch-box #popup-view .popup-view-head #popup-menu-back {
@@ -1054,6 +1054,7 @@ body {display:block !important;}
   position:relative;
   background:rgba(47,46,68,.4);
   height:calc(100% - 40px );
+  box-shadow: wheat;
 }
 #game-wrap #game-cont #stretch-box #popup-view .popup-view-list .base-popup-view {
   box-sizing:border-box;
@@ -3154,7 +3155,7 @@ body {display:block !important;}
  font-weight: 700;
  padding: 15px;
  color: #ff000000;
- background: white;
+ background: #ffffff;
  border-radius: 10px;
  background-image: url(https://i.imgur.com/OK8ibCc.png);
  background-repeat: no-repeat;
@@ -3547,7 +3548,6 @@ width: 40px;
     height: 455px;
     font-size: 15px;
     box-shadow: 0px 3px 20px 5px #a655cd !important;
-    
 }
 
 .close-button {
@@ -4089,6 +4089,6 @@ input[type="color"]::-moz-color-swatch {
 }
 
 .description-text, #loa831pibur0w4gv {
-    border: 1px solid #ffe1ff;
-    box-shadow: 0px 0px 15px 10px #cdff00;
+    border: 1px solid #ffffff;
+    box-shadow: 0px 0px 15px 10px #ffffff;
 }
