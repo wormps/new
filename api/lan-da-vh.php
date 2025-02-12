@@ -20260,7 +20260,7 @@
     {
       "id": 720,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": 0,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
