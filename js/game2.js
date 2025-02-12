@@ -2151,7 +2151,7 @@ else {
                     this.lf.Bf(b.af == GameMode.$e ? app.q.Cf : app.q.Df);
                     var g = this.mf;
                     g.clear();
-                    g.lineStyle(.8, 65535);
+                    g.lineStyle(0.1, 0xFF0000);
                     g.drawCircle(0, 0, b.ub);
                     g.endFill();
                     this.vf.Ef = pct;
