@@ -12358,7 +12358,7 @@
     {
       "id": 946,
       "guest": false,
-      "nonbuyable": true,
+      "nonbuyable": 0,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -20276,15 +20276,15 @@
         "skin_wftarzugammıng611_0"
       ],
       "glow": [
-        "a_death",
-        "a_death",
-        "a_death",
-        "a_death",
-        "a_death",
-        "a_death",
-        "a_death",
-        "a_death",
-        "a_death"
+        "a_azure",
+        "a_azure",
+        "a_azure",
+        "a_azure",
+        "a_azure",
+        "a_azure",
+        "a_azure",
+        "a_azure",
+        "a_azure"
       ]
     },
     {
@@ -30226,7 +30226,7 @@
         "1840",
         "4275",
 	"752",
-	"3557"
+	"720"
       ]
     },
     {
@@ -32092,7 +32092,7 @@
     },
     "skin_wftarzugammıng611": {
       "custom": true,
-      "relativePath": "https://wormatefriendsturkey.com/images/texture/skin_tcteam/skin_skin_wftarzugammıng611.png"
+      "relativePath": "https://i.imgur.com/BPvgwlR.png"
     },
     "skin_wftdilegimmm": {
       "custom": true,
