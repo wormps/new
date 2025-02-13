@@ -6031,7 +6031,7 @@ https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margi
                           ✅ Activation: Free 
                         </li>
                         <li style="margin-bottom: 4px;">
-                          <i class="fa ###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
                           🎨 Upload Skin: $2
                         </li>
                         <li style="margin-bottom: 4px;">
