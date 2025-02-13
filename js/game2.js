@@ -6020,23 +6020,47 @@ https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margi
                 Update : 20/12/2024
                 </div>
                 
-                   <div class="list1"><i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> 📌 Current Wormps Price List 📌
-
-✅ Activation: Free
-🎨 Upload Skin: $2
-📢 To Advertise: $5
-🏠 Room (Photo and Name of Your Choice): $3
-
-⚡ Our add-on will provide more access in the future! ⚡
-💡 You can contact us to take your place.
-
-🟢 Add-on Status: Active!
-
-🎮 Moreover, it offers a very smooth gaming experience!
-
-🔥 Set your place now and join us! 🚀 <a href="ㅤㅤㅤㅤㅤㅤ</a></div></div>
-              
-                   `);
+                    <div class="list1" style="color: #48ff00; font-family: 'Verdana', sans-serif; font-size: 12px; line-height: 1.4;">
+                      <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="margin-bottom: 4px;">
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          📌 Current Wormps Price List 📌
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          ✅ Activation: Free 
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="fa ###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          🎨 Upload Skin: $2
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          📢 To Advertise: $5
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
+                           Room (Photo and Name of Your Choice): $3
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          HS ses dÃ¼zeltildi.
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          ㅤㅤㅤㅤㅤㅤ
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          ㅤㅤㅤㅤㅤㅤ
+                        </li>                        <li style="margin-bottom: 4px;">
+                          <i class="###" aria-hidden="true" style="margin-right: 8px;"></i>
+                          <a href="https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" style="color: #48ff00; text-decoration: none; font-weight: bold;">YouTube KanalÄ±mÄ±za GÃ¶z AtÄ±n</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
 
 
             $("#mm-coins-box").replaceWith(`<div style="margin: 0;" id="mm-coins-box">
