@@ -6045,7 +6045,7 @@ https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margi
                         </li>
                         </li>                        <li style="margin-bottom: 4px;">
                           <i class="fa fa-link" aria-hidden="true" style="margin-right: 8px;"></i>
-                          <a href="https://www.youtube.com/" style="color: #48ff00; text-decoration: none; font-weight: bold;">YouTube KanalÄ±mÄ±za GÃ¶z AtÄ±n</a>
+                          <a href="https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" style="color: #48ff00; text-decoration: none; font-weight: bold;">Check out our Youtube Channel</a>
                         </li>
                       </ul>
                     </div>
