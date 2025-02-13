@@ -6020,7 +6020,21 @@ https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margi
                 Update : 20/12/2024
                 </div>
                 
-                   <div class="list1"><i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Instructions for installing on IOS and iPad New 2024: <a href="https://www.youtube.com/watch?v=uyHHXWKHgRw">https://www.youtube.com/watch?v=uyHHXWKHgRw</a></div></div>
+                   <div class="list1"><i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> 📌 Current Wormps Price List 📌
+
+✅ Activation: Free
+🎨 Upload Skin: $2
+📢 To Advertise: $5
+🏠 Room (Photo and Name of Your Choice): $3
+
+⚡ Our add-on will provide more access in the future! ⚡
+💡 You can contact us to take your place.
+
+🟢 Add-on Status: Active!
+
+🎮 Moreover, it offers a very smooth gaming experience!
+
+🔥 Set your place now and join us! 🚀 <a href="ㅤㅤㅤㅤㅤㅤ</a></div></div>
               
                    `);
 
