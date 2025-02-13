@@ -6018,7 +6018,7 @@ https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margi
              <div class="bao-list1">
                     <div class="list1" style="font-size: 12px; font-family: Arial, sans-serif; margin-bottom: 8px; text-align: center;">
                       <i class="fa fa-calendar" aria-hidden="true" style="color: #48ff00; margin-right: 5px;"></i>
-                      <strong>GÃ¼ncelleme :</strong> 20/01/2025
+                      <strong>Update :</strong> 20/01/2025
                     </div>
                 
                     <div class="list1" style="color: #48ff00; font-family: 'Verdana', sans-serif; font-size: 12px; line-height: 1.4;">
