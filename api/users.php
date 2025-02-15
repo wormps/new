@@ -23,9 +23,9 @@
         {
             "id": 2,
             "cliente_NOMBRE": "Haram",
-            "cliente_ID": "gg_103012006374367109972",
+            "cliente_ID": "gg_103842371689453038944",
             "Client_KeyAccecs": "XTPRIVATESKIN",
-            "cliente_DateExpired": "2025-04-30",
+            "cliente_DateExpired": "2025-12-30",
             "status": 1,
             "Client_VisibleSkin": "2815",
             "Client_VisibleSkin1": "1620",
