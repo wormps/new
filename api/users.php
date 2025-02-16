@@ -1152,7 +1152,7 @@
             "Client_VisibleSkin1": "3557",
             "Client_VisibleSkin2": "720",
             "Client_VisibleSkin3": "4275",
-            "Client_VisibleSkin4": "0000",
+            "Client_VisibleSkin4": "3365",
             "Client_VisibleSkin5": "0000",
             "Client_VisibleSkin6": "0000",
             "Client_VisibleSkin7": "0000",
