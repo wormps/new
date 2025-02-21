@@ -63,7 +63,7 @@
             "cliente_NOMBRE": "kingmali",
             "cliente_ID": "gg_112736843558772495295",
             "Client_KeyAccecs": "XTPRIVATESKIN",
-            "cliente_DateExpired": "2024-12-20",
+            "cliente_DateExpired": "2025-12-30",
             "status": 1,
             "Client_VisibleSkin": "0000",
             "Client_VisibleSkin1": "0000",
