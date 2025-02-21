@@ -79,10 +79,10 @@
         },
         {
             "id": 5,
-            "cliente_NOMBRE": "MOSHKELAH",
-            "cliente_ID": "gg_104815814006836256416",
+            "cliente_NOMBRE": "KingMali",
+            "cliente_ID": "gg_112736843558772495295",
             "Client_KeyAccecs": "XTPRIVATESKIN",
-            "cliente_DateExpired": "2025-04-30",
+            "cliente_DateExpired": "2025-12-30",
             "status": 1,
             "Client_VisibleSkin": "0000",
             "Client_VisibleSkin1": "0000",
