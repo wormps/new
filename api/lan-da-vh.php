@@ -7702,6 +7702,19 @@
             "priceBefore": 0,
             "nonbuyable": false,
             "prime": "c_white"
+        },
+        "905": {
+            "id": 905,
+            "base": [
+                {
+                    "region": "hatDict_905"
+                }
+            ],
+            "guest": false,
+            "price": 0,
+            "priceBefore": 0,
+            "nonbuyable": false,
+            "prime": "c_white"
         }
     },
     "eyesDict": {
@@ -33352,6 +33365,10 @@
             "custom": true,
             "relativePath": "https:\/\/lh3.googleusercontent.com\/d\/1Jst5eZrRqfXKdbuRjGPwZENczZfY6x_o"
         },
+         "hatDict_905": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/mjE6wT5.png"
+        },
         "glassesDict_1000": {
             "custom": true,
             "relativePath": "https:\/\/lh3.googleusercontent.com\/d\/1Jst5eZrRqfXKdbuRjGPwZENczZfY6x_o"
@@ -50839,6 +50856,17 @@
         },
         "hatDict_904": {
             "texture": "hatDict_904",
+            "x": "0",
+            "y": "0",
+            "w": "400",
+            "h": "250",
+            "px": "1",
+            "py": "64",
+            "pw": "128",
+            "ph": "128"
+        },
+        "hatDict_905": {
+            "texture": "hatDict_905",
             "x": "0",
             "y": "0",
             "w": "400",
