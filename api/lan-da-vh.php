@@ -21291,15 +21291,15 @@
                 "abufaris_07_0"
             ],
             "glow": [
-                "a_ocean",
-                "a_ocean",
-                "a_ocean",
-                "a_ocean",
-                "a_ocean",
-                "a_ocean",
-                "a_ocean",
-                "a_ocean",
-                "a_ocean"
+                "a__card",
+                "a_black",
+                "a_black",
+                "a__card",
+                "a__card",
+                "a__card",
+                "a__card",
+                "a_death",
+                "a_death"
             ]
         },
         {
@@ -31227,7 +31227,7 @@
         },
         "abufaris_07": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/BFk1XW6.png"
+            "relativePath": "https:\/\/i.imgur.com\/KlgGZIH.png"
         },
         "abufaris_08": {
             "custom": true,
